@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer programming especially Machine Learning
 - 🌱 I’m currently learning python and honing my skills in it.
 - 📫 How to reach me :
-  Twitter : @It_sroshan
+  Twitter : @it_sroshan
    Email  : yuvrajaryal83@gmail.com
 
 <!---
