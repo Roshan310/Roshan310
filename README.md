@@ -2,8 +2,8 @@
 - 👀 I’m interested in Computer programming especially Machine Learning
 - 🌱 I’m currently learning python and honing my skills in it.
 - 📫 How to reach me :
-  Twitter : @it_sroshan
-   Email  : yuvrajaryal83@gmail.com
+-    Twitter : @it_sroshan
+-    Email  : yuvrajaryal83@gmail.com
 
 <!---
 Roshan310/Roshan310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
