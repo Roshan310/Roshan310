@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Roshan310 and I'm from Nepal.
-- 👀 I’m interested in Computer programming especially Machine Learning
+- 👀 I’m interested in doing awesome things with computers.
 - 🌱 I’m currently learning python and honing my skills in it.
 - 📫 How to reach me :
 -    Twitter : @it_sroshan
