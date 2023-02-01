@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Roshan!
-- 🌱 I’m currently learning python and honing my skills in it.
-- 📫 How to reach me :
+- 👋 Hi, It's Roshan here!
+- 🌱 Currently learning python and honing my skills in it.
+- 📫 Let's get connected :
 -    Twitter : @it_sroshan
 -    Email  : yuvrajaryal83@gmail.com
 
