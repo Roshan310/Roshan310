@@ -1,5 +1,5 @@
 - 👋 Hi, It's Roshan here!
-- 🌱 Currently learning python and honing my skills in it.
+- 🌱 Currently learning python and honing my skills.
 - 📫 Let's get connected :
 -    Twitter : @it_sroshan
 -    Email  : yuvrajaryal83@gmail.com
