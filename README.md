@@ -4,6 +4,10 @@
 -    Twitter : @it_sroshan
 -    Email  : yuvrajaryal83@gmail.com
 
+# Language Used:
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)](https://www.python.org/)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Roshan310)](https://git.io/streak-stats)
 
 
