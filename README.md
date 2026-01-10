@@ -1,7 +1,7 @@
 # Hi everyone :wave:
 
 I'm a backend developer (wannabe engineer) from Nepal, cracking and trying things. I'm on the way of becoming a Pragmatic Programmer but let's see where it goes.
-> I care about my Craft.
+> I Care About My Craft.
 
 ### What I do
 
