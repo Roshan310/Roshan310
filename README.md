@@ -1,6 +1,4 @@
-# Hi everyone :wave:
-
-I'm a backend developer (wannabe engineer) from Nepal, cracking and trying things. I'm on the way of becoming a Pragmatic Programmer but let's see where it goes.
+Just a guy with immense learning curiosity, cracking and trying things. I'm on the way of becoming a Pragmatic Programmer but let's see where it goes.
 > I Care About My Craft.
 
 ### What I do
